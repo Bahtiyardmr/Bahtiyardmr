@@ -3,13 +3,13 @@
 
 
 
-<img align="right" width="400px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--EJm2Q_Yh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x9jx4vw356x1gdkss3gx.gif" alt="">
+<img align="right" width="400px" src="https://camo.githubusercontent.com/c8f630e08bb57b452632df1d81b3ae54967f4b81d72c0db319f47d14fcd721ca/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d454a6d32515f59682d2d2f635f6c696d6974253243665f6175746f253243666c5f70726f6772657373697665253243715f3636253243775f3838302f68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f75706c6f6164732f61727469636c65732f78396a78347677333536783167646b73733367782e676966" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahtiyardmr&label=Profile%20views&color=0e75b6&style=flat" alt="bahtiyardmr" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bahtiyar-demir-635b3401b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bahtiyar-demir-635b3401b4/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bahtiyar-demir-635b341b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bahtiyar-demir-635b3401b4/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
